@@ -10,7 +10,7 @@ h1 {
     font-weight: normal;
 }
 
-#link {
+.link {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
@@ -27,8 +27,9 @@ h2 {
     color: gray;
 }
 
-h5 {
-    color: aquamarine;
-    text-decoration: underline;
-    font-size: 12px;
+#copyright {
+    color: gray;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: right;
 }
