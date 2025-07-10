@@ -10,7 +10,7 @@ h1 {
     font-weight: normal;
 }
 
-.link {
+p {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
@@ -25,6 +25,7 @@ h2 {
 #point {
     font-size: 21px;
     color: gray;
+    text-decoration: none;
 }
 
 #copyright {
